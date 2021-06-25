@@ -1,4 +1,4 @@
-package com.example.ipl;
+CGI Information Systems and Management Consultantspackage com.example.ipl;
 
 import java.time.LocalDate;
 
@@ -7,7 +7,7 @@ public class MatchInput {
 	private String city;
 	private String date;
 	private String player_of_match;
-	private string venue;
+	private String venue;
 	private String neutral_venue;
 	private String team1;
 	private String team2;
@@ -20,5 +20,6 @@ public class MatchInput {
 	private String method;
 	private String umpire1umpire2;
 
+	
 	
 }
